@@ -1,3 +1,2 @@
 # Hello-World
-Learning git hub
-I'm trying to learn how to use git hub and how to program and use code.
+Learning git hub a little about myself I'm learning git hub and trying to learn code also.
